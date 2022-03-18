@@ -8,8 +8,9 @@ Cada laboratório contém: código, relatório e vídeo de apresentação.
 
 Processos requeridos:
 - Baixar e instalar o driver da placa
-- Baixar o gcc arm e exportar ele no path do seu terminal com o caminho da pasta bin
-- Baixar o Gecko e colocar o caminho no makefile
+- Baixar o gcc arm
+- Exportar gcc-arm no path do seu terminal com o caminho da pasta bin. Isso pode ser feito adicionando ao final do arquivo .bashrc a seguinte linha: $export PATH="[your-dir]:$PATH". OBS: O arquivo .bashrc fica na pasta source do linux e somente é visto com ls-a.
+- Baixar o Gecko e colocar o caminho no makefile 
 - "make" pra compilar
 - "make flash" pro upload na EFM32
 
