@@ -9,4 +9,4 @@ Apresentação detalhada: https://drive.google.com/file/d/1ajYqImOnkZ4lDBrHSs-fA
 - EFM32 Giant Gecko
 - 3 Sensores TCRT5000
 - Sensor Ultrassom
-- Leds, Resistores e Jumpers 
+- Leds, Resistores diversos e Jumpers 
