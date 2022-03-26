@@ -1,4 +1,5 @@
 # EFM32
+![GitHub](https://img.shields.io/github/license/luizalaquini/EFM32)
 ![GitHub repo size](https://img.shields.io/github/repo-size/luizalaquini/EFM32)
 ![GitHub followers](https://img.shields.io/github/followers/luizalaquini?label=Follow&style=social)
 
@@ -14,8 +15,8 @@ Processos requeridos:
 - "make" pra compilar
 - "make flash" pro upload na EFM32
 
-Vídeos dos Labs no Drive:
-https://drive.google.com/drive/u/1/folders/1UdHV4wbSdqOWsNfdGK3jy3wu-8qs_Yh8
+Vídeos de apresentação no Drive:
+https://drive.google.com/drive/u/1/folders/1titwxPxVDiaClFOvlLbk5q5f34U_7tXC
 
 ## Tecnologias Utilizadas
 - EFM32
