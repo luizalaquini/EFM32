@@ -1,0 +1,953 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_mulsf3.o)
+                              gcc/main.o (__aeabi_fmul)
+/home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+                              gcc/main.o (__aeabi_dadd)
+/home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
+                              gcc/main.o (__aeabi_ddiv)
+/home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_truncdfsf2.o)
+                              gcc/main.o (__aeabi_d2f)
+/home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubsf3.o)
+                              gcc/main.o (__aeabi_i2f)
+/home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivsf3.o)
+                              gcc/ultrassom.o (__aeabi_fdiv)
+/home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_fixsfsi.o)
+                              gcc/main.o (__aeabi_f2iz)
+/home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_fixunssfsi.o)
+                              gcc/main.o (__aeabi_f2uiz)
+/home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-itoa.o)
+                              gcc/main.o (itoa)
+/home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+                              gcc/lcd.o (memset)
+/home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-utoa.o)
+                              /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-itoa.o) (__utoa)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 gcc/pwm.o
+ .data          0x0000000000000000        0x0 gcc/pwm.o
+ .bss           0x0000000000000000        0x0 gcc/pwm.o
+ .rodata.GPIOA  0x0000000000000000        0x4 gcc/pwm.o
+ .rodata.GPIOB  0x0000000000000000        0x4 gcc/pwm.o
+ .rodata.GPIOC  0x0000000000000000        0x4 gcc/pwm.o
+ .rodata.GPIOD  0x0000000000000000        0x4 gcc/pwm.o
+ .rodata.GPIOE  0x0000000000000000        0x4 gcc/pwm.o
+ .rodata.GPIOF  0x0000000000000000        0x4 gcc/pwm.o
+ .rodata.GPIO_MODE_DISABLE
+                0x0000000000000000        0x4 gcc/pwm.o
+ .rodata.GPIO_MODE_INPUT
+                0x0000000000000000        0x4 gcc/pwm.o
+ .rodata.GPIO_MODE_INPUTPULL
+                0x0000000000000000        0x4 gcc/pwm.o
+ .rodata.GPIO_MODE_INPUTPULLFILTER
+                0x0000000000000000        0x4 gcc/pwm.o
+ .rodata.GPIO_MODE_PUSHPULL
+                0x0000000000000000        0x4 gcc/pwm.o
+ .rodata.GPIO_MODE_PUSHPULLDRIVE
+                0x0000000000000000        0x4 gcc/pwm.o
+ .rodata.GPIO_MODE_WIREDOR
+                0x0000000000000000        0x4 gcc/pwm.o
+ .rodata.GPIO_MODE_WIREDORPULLDOWN
+                0x0000000000000000        0x4 gcc/pwm.o
+ .rodata.GPIO_MODE_WIREDAND
+                0x0000000000000000        0x4 gcc/pwm.o
+ .rodata.GPIO_MODE_WIREDANDFILTER
+                0x0000000000000000        0x4 gcc/pwm.o
+ .rodata.GPIO_MODE_WIREDANDPULLUP
+                0x0000000000000000        0x4 gcc/pwm.o
+ .rodata.GPIO_MODE_WIREDANDPULLUPFILTER
+                0x0000000000000000        0x4 gcc/pwm.o
+ .rodata.GPIO_MODE_WIREDANDDRIVE
+                0x0000000000000000        0x4 gcc/pwm.o
+ .rodata.GPIO_MODE_WIREDANDDRIVEFILTER
+                0x0000000000000000        0x4 gcc/pwm.o
+ .rodata.GPIO_MODE_WIREDANDDRIVEPULLUP
+                0x0000000000000000        0x4 gcc/pwm.o
+ .rodata.GPIO_MODE_WIREDANDDRIVEPULLUPFILTER
+                0x0000000000000000        0x4 gcc/pwm.o
+ .text.PWM_Read
+                0x0000000000000000       0x26 gcc/pwm.o
+ .text          0x0000000000000000        0x0 gcc/system_efm32gg.o
+ .data          0x0000000000000000        0x0 gcc/system_efm32gg.o
+ .bss           0x0000000000000000        0x0 gcc/system_efm32gg.o
+ .text.SystemMaxCoreClockGet
+                0x0000000000000000       0x14 gcc/system_efm32gg.o
+ .text.SystemHFXOClockGet
+                0x0000000000000000       0x14 gcc/system_efm32gg.o
+ .text.SystemHFXOClockSet
+                0x0000000000000000       0x30 gcc/system_efm32gg.o
+ .text.SystemLFRCOClockGet
+                0x0000000000000000       0x10 gcc/system_efm32gg.o
+ .text.SystemULFRCOClockGet
+                0x0000000000000000       0x10 gcc/system_efm32gg.o
+ .text.SystemLFXOClockGet
+                0x0000000000000000       0x14 gcc/system_efm32gg.o
+ .text.SystemLFXOClockSet
+                0x0000000000000000       0x30 gcc/system_efm32gg.o
+ .text          0x0000000000000000        0x0 gcc/startup_efm32gg.o
+ .data          0x0000000000000000        0x0 gcc/startup_efm32gg.o
+ .bss           0x0000000000000000        0x0 gcc/startup_efm32gg.o
+ .text.SystemInit
+                0x0000000000000000        0xc gcc/startup_efm32gg.o
+ .text          0x0000000000000000        0x0 gcc/clock_efm32gg2.o
+ .data          0x0000000000000000        0x0 gcc/clock_efm32gg2.o
+ .bss           0x0000000000000000        0x0 gcc/clock_efm32gg2.o
+ .text.ClockRegisterCallback
+                0x0000000000000000       0xc0 gcc/clock_efm32gg2.o
+ .text.ClockSetPrescalers
+                0x0000000000000000      0x11c gcc/clock_efm32gg2.o
+ .text.ClockSetLFCLKA
+                0x0000000000000000      0x12c gcc/clock_efm32gg2.o
+ .text.ClockSetLFCLKB
+                0x0000000000000000      0x12c gcc/clock_efm32gg2.o
+ .text.ClockGetPeripheralClockFrequency
+                0x0000000000000000       0x18 gcc/clock_efm32gg2.o
+ .text          0x0000000000000000        0x0 gcc/main.o
+ .data          0x0000000000000000        0x0 gcc/main.o
+ .bss           0x0000000000000000        0x0 gcc/main.o
+ .rodata.GPIOA  0x0000000000000000        0x4 gcc/main.o
+ .rodata.GPIOB  0x0000000000000000        0x4 gcc/main.o
+ .rodata.GPIOC  0x0000000000000000        0x4 gcc/main.o
+ .rodata.GPIOD  0x0000000000000000        0x4 gcc/main.o
+ .rodata.GPIOE  0x0000000000000000        0x4 gcc/main.o
+ .rodata.GPIOF  0x0000000000000000        0x4 gcc/main.o
+ .rodata.GPIO_MODE_DISABLE
+                0x0000000000000000        0x4 gcc/main.o
+ .rodata.GPIO_MODE_INPUT
+                0x0000000000000000        0x4 gcc/main.o
+ .rodata.GPIO_MODE_INPUTPULL
+                0x0000000000000000        0x4 gcc/main.o
+ .rodata.GPIO_MODE_INPUTPULLFILTER
+                0x0000000000000000        0x4 gcc/main.o
+ .rodata.GPIO_MODE_PUSHPULL
+                0x0000000000000000        0x4 gcc/main.o
+ .rodata.GPIO_MODE_PUSHPULLDRIVE
+                0x0000000000000000        0x4 gcc/main.o
+ .rodata.GPIO_MODE_WIREDOR
+                0x0000000000000000        0x4 gcc/main.o
+ .rodata.GPIO_MODE_WIREDORPULLDOWN
+                0x0000000000000000        0x4 gcc/main.o
+ .rodata.GPIO_MODE_WIREDAND
+                0x0000000000000000        0x4 gcc/main.o
+ .rodata.GPIO_MODE_WIREDANDFILTER
+                0x0000000000000000        0x4 gcc/main.o
+ .rodata.GPIO_MODE_WIREDANDPULLUP
+                0x0000000000000000        0x4 gcc/main.o
+ .rodata.GPIO_MODE_WIREDANDPULLUPFILTER
+                0x0000000000000000        0x4 gcc/main.o
+ .rodata.GPIO_MODE_WIREDANDDRIVE
+                0x0000000000000000        0x4 gcc/main.o
+ .rodata.GPIO_MODE_WIREDANDDRIVEFILTER
+                0x0000000000000000        0x4 gcc/main.o
+ .rodata.GPIO_MODE_WIREDANDDRIVEPULLUP
+                0x0000000000000000        0x4 gcc/main.o
+ .rodata.GPIO_MODE_WIREDANDDRIVEPULLUPFILTER
+                0x0000000000000000        0x4 gcc/main.o
+ .text          0x0000000000000000        0x0 gcc/led.o
+ .data          0x0000000000000000        0x0 gcc/led.o
+ .bss           0x0000000000000000        0x0 gcc/led.o
+ .rodata.GPIOE  0x0000000000000000        0x4 gcc/led.o
+ .text.LED_Init
+                0x0000000000000000       0x7c gcc/led.o
+ .text.LED_On   0x0000000000000000       0x24 gcc/led.o
+ .text.LED_Off  0x0000000000000000       0x24 gcc/led.o
+ .text.LED_Toggle
+                0x0000000000000000       0x24 gcc/led.o
+ .text.LED_Write
+                0x0000000000000000       0x2c gcc/led.o
+ .debug_info    0x0000000000000000      0x50e gcc/led.o
+ .debug_abbrev  0x0000000000000000      0x12d gcc/led.o
+ .debug_aranges
+                0x0000000000000000       0x40 gcc/led.o
+ .debug_ranges  0x0000000000000000       0x30 gcc/led.o
+ .debug_line    0x0000000000000000      0x204 gcc/led.o
+ .debug_str     0x0000000000000000      0x333 gcc/led.o
+ .comment       0x0000000000000000       0x4a gcc/led.o
+ .debug_frame   0x0000000000000000       0xd4 gcc/led.o
+ .ARM.attributes
+                0x0000000000000000       0x2d gcc/led.o
+ .text          0x0000000000000000        0x0 gcc/ultrassom.o
+ .data          0x0000000000000000        0x0 gcc/ultrassom.o
+ .bss           0x0000000000000000        0x0 gcc/ultrassom.o
+ .rodata.GPIOA  0x0000000000000000        0x4 gcc/ultrassom.o
+ .rodata.GPIOB  0x0000000000000000        0x4 gcc/ultrassom.o
+ .rodata.GPIOC  0x0000000000000000        0x4 gcc/ultrassom.o
+ .rodata.GPIOD  0x0000000000000000        0x4 gcc/ultrassom.o
+ .rodata.GPIOE  0x0000000000000000        0x4 gcc/ultrassom.o
+ .rodata.GPIOF  0x0000000000000000        0x4 gcc/ultrassom.o
+ .rodata.GPIO_MODE_DISABLE
+                0x0000000000000000        0x4 gcc/ultrassom.o
+ .rodata.GPIO_MODE_INPUT
+                0x0000000000000000        0x4 gcc/ultrassom.o
+ .rodata.GPIO_MODE_INPUTPULL
+                0x0000000000000000        0x4 gcc/ultrassom.o
+ .rodata.GPIO_MODE_INPUTPULLFILTER
+                0x0000000000000000        0x4 gcc/ultrassom.o
+ .rodata.GPIO_MODE_PUSHPULL
+                0x0000000000000000        0x4 gcc/ultrassom.o
+ .rodata.GPIO_MODE_PUSHPULLDRIVE
+                0x0000000000000000        0x4 gcc/ultrassom.o
+ .rodata.GPIO_MODE_WIREDOR
+                0x0000000000000000        0x4 gcc/ultrassom.o
+ .rodata.GPIO_MODE_WIREDORPULLDOWN
+                0x0000000000000000        0x4 gcc/ultrassom.o
+ .rodata.GPIO_MODE_WIREDAND
+                0x0000000000000000        0x4 gcc/ultrassom.o
+ .rodata.GPIO_MODE_WIREDANDFILTER
+                0x0000000000000000        0x4 gcc/ultrassom.o
+ .rodata.GPIO_MODE_WIREDANDPULLUP
+                0x0000000000000000        0x4 gcc/ultrassom.o
+ .rodata.GPIO_MODE_WIREDANDPULLUPFILTER
+                0x0000000000000000        0x4 gcc/ultrassom.o
+ .rodata.GPIO_MODE_WIREDANDDRIVE
+                0x0000000000000000        0x4 gcc/ultrassom.o
+ .rodata.GPIO_MODE_WIREDANDDRIVEFILTER
+                0x0000000000000000        0x4 gcc/ultrassom.o
+ .rodata.GPIO_MODE_WIREDANDDRIVEPULLUP
+                0x0000000000000000        0x4 gcc/ultrassom.o
+ .rodata.GPIO_MODE_WIREDANDDRIVEPULLUPFILTER
+                0x0000000000000000        0x4 gcc/ultrassom.o
+ .text          0x0000000000000000        0x0 gcc/lcd.o
+ .data          0x0000000000000000        0x0 gcc/lcd.o
+ .bss           0x0000000000000000        0x0 gcc/lcd.o
+ .rodata.tablcdspecial
+                0x0000000000000000       0x44 gcc/lcd.o
+ .text.LCD_WriteAlphanumericDisplay
+                0x0000000000000000       0x4e gcc/lcd.o
+ .text.LCD_WriteNumericDisplay
+                0x0000000000000000       0x4e gcc/lcd.o
+ .text.LCD_WriteSegmentMask
+                0x0000000000000000       0x9c gcc/lcd.o
+ .text.LCD_WriteSegment2
+                0x0000000000000000       0x48 gcc/lcd.o
+ .text.LCD_WriteSegment
+                0x0000000000000000       0x3c gcc/lcd.o
+ .text.LCD_WriteSpecial
+                0x0000000000000000      0x25c gcc/lcd.o
+ .text.LCD_Freeze
+                0x0000000000000000       0x1c gcc/lcd.o
+ .text.LCD_Unfreeze
+                0x0000000000000000       0x1c gcc/lcd.o
+ .text          0x0000000000000000        0x0 gcc/gpio.o
+ .data          0x0000000000000000        0x0 gcc/gpio.o
+ .bss           0x0000000000000000        0x0 gcc/gpio.o
+ .rodata.GPIOA  0x0000000000000000        0x4 gcc/gpio.o
+ .rodata.GPIOB  0x0000000000000000        0x4 gcc/gpio.o
+ .rodata.GPIOC  0x0000000000000000        0x4 gcc/gpio.o
+ .rodata.GPIOD  0x0000000000000000        0x4 gcc/gpio.o
+ .rodata.GPIOE  0x0000000000000000        0x4 gcc/gpio.o
+ .rodata.GPIOF  0x0000000000000000        0x4 gcc/gpio.o
+ .rodata.GPIO_MODE_DISABLE
+                0x0000000000000000        0x4 gcc/gpio.o
+ .rodata.GPIO_MODE_INPUT
+                0x0000000000000000        0x4 gcc/gpio.o
+ .rodata.GPIO_MODE_INPUTPULL
+                0x0000000000000000        0x4 gcc/gpio.o
+ .rodata.GPIO_MODE_INPUTPULLFILTER
+                0x0000000000000000        0x4 gcc/gpio.o
+ .rodata.GPIO_MODE_PUSHPULL
+                0x0000000000000000        0x4 gcc/gpio.o
+ .rodata.GPIO_MODE_PUSHPULLDRIVE
+                0x0000000000000000        0x4 gcc/gpio.o
+ .rodata.GPIO_MODE_WIREDOR
+                0x0000000000000000        0x4 gcc/gpio.o
+ .rodata.GPIO_MODE_WIREDORPULLDOWN
+                0x0000000000000000        0x4 gcc/gpio.o
+ .rodata.GPIO_MODE_WIREDAND
+                0x0000000000000000        0x4 gcc/gpio.o
+ .rodata.GPIO_MODE_WIREDANDFILTER
+                0x0000000000000000        0x4 gcc/gpio.o
+ .rodata.GPIO_MODE_WIREDANDPULLUP
+                0x0000000000000000        0x4 gcc/gpio.o
+ .rodata.GPIO_MODE_WIREDANDPULLUPFILTER
+                0x0000000000000000        0x4 gcc/gpio.o
+ .rodata.GPIO_MODE_WIREDANDDRIVE
+                0x0000000000000000        0x4 gcc/gpio.o
+ .rodata.GPIO_MODE_WIREDANDDRIVEFILTER
+                0x0000000000000000        0x4 gcc/gpio.o
+ .rodata.GPIO_MODE_WIREDANDDRIVEPULLUP
+                0x0000000000000000        0x4 gcc/gpio.o
+ .rodata.GPIO_MODE_WIREDANDDRIVEPULLUPFILTER
+                0x0000000000000000        0x4 gcc/gpio.o
+ .text          0x0000000000000000        0x0 gcc/adc.o
+ .data          0x0000000000000000        0x0 gcc/adc.o
+ .bss           0x0000000000000000        0x0 gcc/adc.o
+ .text          0x0000000000000000      0x168 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_mulsf3.o)
+ .data          0x0000000000000000        0x0 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_mulsf3.o)
+ .bss           0x0000000000000000        0x0 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_mulsf3.o)
+ .debug_frame   0x0000000000000000       0x24 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_mulsf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x1d /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_mulsf3.o)
+ .data          0x0000000000000000        0x0 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x0000000000000000        0x0 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+ .data          0x0000000000000000        0x0 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x0000000000000000        0x0 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
+ .data          0x0000000000000000        0x0 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x0000000000000000        0x0 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_truncdfsf2.o)
+ .data          0x0000000000000000        0x0 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubsf3.o)
+ .bss           0x0000000000000000        0x0 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubsf3.o)
+ .data          0x0000000000000000        0x0 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivsf3.o)
+ .bss           0x0000000000000000        0x0 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivsf3.o)
+ .data          0x0000000000000000        0x0 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_fixsfsi.o)
+ .bss           0x0000000000000000        0x0 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_fixsfsi.o)
+ .data          0x0000000000000000        0x0 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_fixunssfsi.o)
+ .bss           0x0000000000000000        0x0 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_fixunssfsi.o)
+ .text          0x0000000000000000        0x0 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-itoa.o)
+ .data          0x0000000000000000        0x0 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-itoa.o)
+ .bss           0x0000000000000000        0x0 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-itoa.o)
+ .text          0x0000000000000000        0x0 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-utoa.o)
+ .data          0x0000000000000000        0x0 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-utoa.o)
+ .bss           0x0000000000000000        0x0 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-utoa.o)
+ .text.utoa     0x0000000000000000        0x4 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-utoa.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000000000000 0x0000000000100000 xr
+RAM              0x0000000020000000 0x0000000000020000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD gcc/pwm.o
+LOAD gcc/system_efm32gg.o
+LOAD gcc/startup_efm32gg.o
+LOAD gcc/clock_efm32gg2.o
+LOAD gcc/main.o
+LOAD gcc/led.o
+LOAD gcc/ultrassom.o
+LOAD gcc/lcd.o
+LOAD gcc/gpio.o
+LOAD gcc/adc.o
+START GROUP
+LOAD /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a
+LOAD /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a
+LOAD /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a
+END GROUP
+START GROUP
+LOAD /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a
+LOAD /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a
+END GROUP
+
+.text           0x0000000000000000     0x3c25
+ *(.vectors)
+ .vectors       0x0000000000000000       0xdc gcc/startup_efm32gg.o
+                0x0000000000000000                __Vectors
+                0x00000000000000dc                __Vectors_End = .
+                0x00000000000000dc                __Vectors_Size = (__Vectors_End - __Vectors)
+                0x0000000020000130                __end__ = .
+ *(.text*)
+ .text.PWM_Start
+                0x00000000000000dc       0x18 gcc/pwm.o
+                0x00000000000000dc                PWM_Start
+ .text.PWM_Stop
+                0x00000000000000f4       0x18 gcc/pwm.o
+                0x00000000000000f4                PWM_Stop
+ .text.Timer_ClockEnable
+                0x000000000000010c       0x94 gcc/pwm.o
+ .text.PWM_ConfigureOutputPin
+                0x00000000000001a0      0x13c gcc/pwm.o
+ .text.PWM_Init
+                0x00000000000002dc      0x214 gcc/pwm.o
+                0x00000000000002dc                PWM_Init
+ .text.finddivencoding
+                0x00000000000004f0       0x32 gcc/pwm.o
+ .text.PWM_Config
+                0x0000000000000522       0x46 gcc/pwm.o
+                0x0000000000000522                PWM_Config
+ .text.PWM_Write
+                0x0000000000000568       0x26 gcc/pwm.o
+                0x0000000000000568                PWM_Write
+ *fill*         0x000000000000058e        0x2 
+ .text.GetProdRev
+                0x0000000000000590       0x18 gcc/system_efm32gg.o
+ .text.SystemCoreClockGet
+                0x00000000000005a8       0x34 gcc/system_efm32gg.o
+                0x00000000000005a8                SystemCoreClockGet
+ .text.SystemHFClockGet
+                0x00000000000005dc      0x118 gcc/system_efm32gg.o
+                0x00000000000005dc                SystemHFClockGet
+ .text.SystemInit
+                0x00000000000006f4        0xc gcc/system_efm32gg.o
+                0x00000000000006f4                SystemInit
+ .text.Reset_Handler
+                0x0000000000000700       0x50 gcc/startup_efm32gg.o
+                0x0000000000000700                Reset_Handler
+ .text._main    0x0000000000000750        0xc gcc/startup_efm32gg.o
+                0x0000000000000750                _main
+ .text.Default_Handler
+                0x000000000000075c        0x6 gcc/startup_efm32gg.o
+                0x000000000000075c                TIMER2_IRQHandler
+                0x000000000000075c                DebugMon_Handler
+                0x000000000000075c                USART0_TX_IRQHandler
+                0x000000000000075c                I2C0_IRQHandler
+                0x000000000000075c                HardFault_Handler
+                0x000000000000075c                LEUART1_IRQHandler
+                0x000000000000075c                USART1_RX_IRQHandler
+                0x000000000000075c                PendSV_Handler
+                0x000000000000075c                NMI_Handler
+                0x000000000000075c                I2C1_IRQHandler
+                0x000000000000075c                TIMER3_IRQHandler
+                0x000000000000075c                USART1_TX_IRQHandler
+                0x000000000000075c                MSC_IRQHandler
+                0x000000000000075c                UsageFault_Handler
+                0x000000000000075c                LEUART0_IRQHandler
+                0x000000000000075c                GPIO_EVEN_IRQHandler
+                0x000000000000075c                UART0_TX_IRQHandler
+                0x000000000000075c                UART1_TX_IRQHandler
+                0x000000000000075c                RTC_IRQHandler
+                0x000000000000075c                TIMER0_IRQHandler
+                0x000000000000075c                LCD_IRQHandler
+                0x000000000000075c                PCNT2_IRQHandler
+                0x000000000000075c                UART0_RX_IRQHandler
+                0x000000000000075c                LETIMER0_IRQHandler
+                0x000000000000075c                TIMER1_IRQHandler
+                0x000000000000075c                USART2_RX_IRQHandler
+                0x000000000000075c                Default_Handler
+                0x000000000000075c                EMU_IRQHandler
+                0x000000000000075c                PCNT0_IRQHandler
+                0x000000000000075c                USB_IRQHandler
+                0x000000000000075c                BURTC_IRQHandler
+                0x000000000000075c                PCNT1_IRQHandler
+                0x000000000000075c                ACMP0_IRQHandler
+                0x000000000000075c                USART0_RX_IRQHandler
+                0x000000000000075c                MemManage_Handler
+                0x000000000000075c                SVC_Handler
+                0x000000000000075c                DAC0_IRQHandler
+                0x000000000000075c                UART1_RX_IRQHandler
+                0x000000000000075c                CMU_IRQHandler
+                0x000000000000075c                EBI_IRQHandler
+                0x000000000000075c                LESENSE_IRQHandler
+                0x000000000000075c                GPIO_ODD_IRQHandler
+                0x000000000000075c                AES_IRQHandler
+                0x000000000000075c                VCMP_IRQHandler
+                0x000000000000075c                DMA_IRQHandler
+                0x000000000000075c                BusFault_Handler
+                0x000000000000075c                USART2_TX_IRQHandler
+ .text.SystemCoreClockUpdate
+                0x0000000000000762        0xc gcc/clock_efm32gg2.o
+ *fill*         0x000000000000076e        0x2 
+ .text.GetProdRev
+                0x0000000000000770       0x18 gcc/clock_efm32gg2.o
+ .text.nearestpower2exp
+                0x0000000000000788       0x6c gcc/clock_efm32gg2.o
+ .text.ClockProcessPreChange
+                0x00000000000007f4       0x6c gcc/clock_efm32gg2.o
+                0x00000000000007f4                ClockProcessPreChange
+ .text.ClockProcessPostChange
+                0x0000000000000860       0x6c gcc/clock_efm32gg2.o
+                0x0000000000000860                ClockProcessPostChange
+ .text.ClockSetCoreClock
+                0x00000000000008cc      0x304 gcc/clock_efm32gg2.o
+                0x00000000000008cc                ClockSetCoreClock
+ .text.ClockGetConfiguration
+                0x0000000000000bd0      0x1c4 gcc/clock_efm32gg2.o
+                0x0000000000000bd0                ClockGetConfiguration
+ .text.ClockConfigureSystemForClockFrequency
+                0x0000000000000d94       0x98 gcc/clock_efm32gg2.o
+                0x0000000000000d94                ClockConfigureSystemForClockFrequency
+ .text.ClockGetCoreClockFrequency
+                0x0000000000000e2c       0x18 gcc/clock_efm32gg2.o
+                0x0000000000000e2c                ClockGetCoreClockFrequency
+ .text.NVIC_SetPriority
+                0x0000000000000e44       0x54 gcc/main.o
+ .text.SysTick_Config
+                0x0000000000000e98       0x44 gcc/main.o
+ .text.main     0x0000000000000edc      0x260 gcc/main.o
+                0x0000000000000edc                main
+ .text.andando1
+                0x000000000000113c      0x100 gcc/main.o
+                0x000000000000113c                andando1
+ .text.andando2
+                0x000000000000123c      0x100 gcc/main.o
+                0x000000000000123c                andando2
+ .text.medindo  0x000000000000133c      0x10c gcc/main.o
+                0x000000000000133c                medindo
+ .text.esquerda1
+                0x0000000000001448       0x30 gcc/main.o
+                0x0000000000001448                esquerda1
+ .text.esquerda2
+                0x0000000000001478       0x30 gcc/main.o
+                0x0000000000001478                esquerda2
+ .text.direita1
+                0x00000000000014a8       0x30 gcc/main.o
+                0x00000000000014a8                direita1
+ .text.direita2
+                0x00000000000014d8       0x30 gcc/main.o
+                0x00000000000014d8                direita2
+ .text.direita3
+                0x0000000000001508       0x30 gcc/main.o
+                0x0000000000001508                direita3
+ .text.direita4
+                0x0000000000001538       0x30 gcc/main.o
+                0x0000000000001538                direita4
+ .text.alteraValorLEDs
+                0x0000000000001568       0x5c gcc/main.o
+                0x0000000000001568                alteraValorLEDs
+ .text.estaLendoBranco
+                0x00000000000015c4       0x54 gcc/main.o
+                0x00000000000015c4                estaLendoBranco
+ .text.GPIO_WritePins
+                0x0000000000001618       0x22 gcc/ultrassom.o
+ .text.GPIO_ReadPins
+                0x000000000000163a       0x16 gcc/ultrassom.o
+ .text.SysTick_Handler
+                0x0000000000001650       0x30 gcc/ultrassom.o
+                0x0000000000001650                SysTick_Handler
+ .text.Delay    0x0000000000001680       0x54 gcc/ultrassom.o
+                0x0000000000001680                Delay
+ .text.Config_Ultrasonic
+                0x00000000000016d4       0x78 gcc/ultrassom.o
+                0x00000000000016d4                Config_Ultrasonic
+ .text.Read_Ultrasonic
+                0x000000000000174c       0xf0 gcc/ultrassom.o
+                0x000000000000174c                Read_Ultrasonic
+ .text.SetLFAClock
+                0x000000000000183c      0x1c0 gcc/lcd.o
+                0x000000000000183c                SetLFAClock
+ .text.LCD_SetClock
+                0x00000000000019fc       0x64 gcc/lcd.o
+                0x00000000000019fc                LCD_SetClock
+ .text.LCD_Init
+                0x0000000000001a60       0x1a gcc/lcd.o
+                0x0000000000001a60                LCD_Init
+ *fill*         0x0000000000001a7a        0x2 
+ .text.LCD_Config
+                0x0000000000001a7c      0x12c gcc/lcd.o
+                0x0000000000001a7c                LCD_Config
+ .text.LCD_WriteChar
+                0x0000000000001ba8      0x23c gcc/lcd.o
+                0x0000000000001ba8                LCD_WriteChar
+ .text.LCD_WriteString
+                0x0000000000001de4       0x4e gcc/lcd.o
+                0x0000000000001de4                LCD_WriteString
+ *fill*         0x0000000000001e32        0x2 
+ .text.LCD_ClearAll
+                0x0000000000001e34       0x60 gcc/lcd.o
+                0x0000000000001e34                LCD_ClearAll
+ .text.LCD_SetAll
+                0x0000000000001e94       0x64 gcc/lcd.o
+                0x0000000000001e94                LCD_SetAll
+ .text.ln2      0x0000000000001ef8       0x32 gcc/lcd.o
+ *fill*         0x0000000000001f2a        0x2 
+ .text.LCD_SetVoltage
+                0x0000000000001f2c       0xbc gcc/lcd.o
+                0x0000000000001f2c                LCD_SetVoltage
+ .text.LCD_SetContrast
+                0x0000000000001fe8       0x48 gcc/lcd.o
+                0x0000000000001fe8                LCD_SetContrast
+ .text.GPIO_ConfigPins
+                0x0000000000002030       0xb0 gcc/gpio.o
+                0x0000000000002030                GPIO_ConfigPins
+ .text.GPIO_Init
+                0x00000000000020e0       0x48 gcc/gpio.o
+                0x00000000000020e0                GPIO_Init
+ .text.GetCalibrationValues
+                0x0000000000002128       0xe0 gcc/adc.o
+ .text.ADC0_IRQHandler
+                0x0000000000002208        0xc gcc/adc.o
+                0x0000000000002208                ADC0_IRQHandler
+ .text.ADC_Init
+                0x0000000000002214      0x11c gcc/adc.o
+                0x0000000000002214                ADC_Init
+ .text.ADC_ConfigChannel
+                0x0000000000002330       0xd4 gcc/adc.o
+                0x0000000000002330                ADC_ConfigChannel
+ .text.ADC_Read
+                0x0000000000002404       0x1e gcc/adc.o
+                0x0000000000002404                ADC_Read
+ *fill*         0x0000000000002422        0x2 
+ .text.ADC_StartReading
+                0x0000000000002424       0x58 gcc/adc.o
+                0x0000000000002424                ADC_StartReading
+ .text.ADC_GetReading
+                0x000000000000247c       0x38 gcc/adc.o
+                0x000000000000247c                ADC_GetReading
+ .text          0x00000000000024b4      0x378 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+                0x00000000000024b4                __aeabi_drsub
+                0x00000000000024bc                __aeabi_dsub
+                0x00000000000024bc                __subdf3
+                0x00000000000024c0                __adddf3
+                0x00000000000024c0                __aeabi_dadd
+                0x0000000000002738                __aeabi_ui2d
+                0x0000000000002738                __floatunsidf
+                0x0000000000002758                __floatsidf
+                0x0000000000002758                __aeabi_i2d
+                0x000000000000277c                __extendsfdf2
+                0x000000000000277c                __aeabi_f2d
+                0x00000000000027c0                __aeabi_ul2d
+                0x00000000000027c0                __floatundidf
+                0x00000000000027d0                __floatdidf
+                0x00000000000027d0                __aeabi_l2d
+ .text          0x000000000000282c      0x424 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
+                0x000000000000282c                __aeabi_dmul
+                0x000000000000282c                __muldf3
+                0x0000000000002a80                __aeabi_ddiv
+                0x0000000000002a80                __divdf3
+ .text          0x0000000000002c50       0xa0 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_truncdfsf2.o)
+                0x0000000000002c50                __aeabi_d2f
+                0x0000000000002c50                __truncdfsf2
+ .text          0x0000000000002cf0      0x21c /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubsf3.o)
+                0x0000000000002cf0                __aeabi_frsub
+                0x0000000000002cf8                __subsf3
+                0x0000000000002cf8                __aeabi_fsub
+                0x0000000000002cfc                __aeabi_fadd
+                0x0000000000002cfc                __addsf3
+                0x0000000000002e5c                __aeabi_ui2f
+                0x0000000000002e5c                __floatunsisf
+                0x0000000000002e64                __aeabi_i2f
+                0x0000000000002e64                __floatsisf
+                0x0000000000002e80                __floatundisf
+                0x0000000000002e80                __aeabi_ul2f
+                0x0000000000002e90                __floatdisf
+                0x0000000000002e90                __aeabi_l2f
+ .text          0x0000000000002f0c      0x2a0 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivsf3.o)
+                0x0000000000002f0c                __mulsf3
+                0x0000000000002f0c                __aeabi_fmul
+                0x0000000000003074                __divsf3
+                0x0000000000003074                __aeabi_fdiv
+ .text          0x00000000000031ac       0x4c /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_fixsfsi.o)
+                0x00000000000031ac                __fixsfsi
+                0x00000000000031ac                __aeabi_f2iz
+ .text          0x00000000000031f8       0x40 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_fixunssfsi.o)
+                0x00000000000031f8                __aeabi_f2uiz
+                0x00000000000031f8                __fixunssfsi
+ .text.__itoa   0x0000000000003238       0x30 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-itoa.o)
+                0x0000000000003238                __itoa
+ .text.itoa     0x0000000000003268        0x4 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-itoa.o)
+                0x0000000000003268                itoa
+ .text.memset   0x000000000000326c       0x10 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+                0x000000000000326c                memset
+ .text.__utoa   0x000000000000327c       0x84 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-utoa.o)
+                0x000000000000327c                __utoa
+ *(.init)
+ *(.fini)
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata.timerpins
+                0x0000000000003300       0xb4 gcc/pwm.o
+ .rodata        0x00000000000033b4       0x6c gcc/main.o
+ .rodata.segments14forchar
+                0x0000000000003420       0xc0 gcc/lcd.o
+ .rodata.segments7forchar
+                0x00000000000034e0       0x60 gcc/lcd.o
+ .rodata.tablcd
+                0x0000000000003540      0x1c2 gcc/lcd.o
+ *fill*         0x0000000000003702        0x2 
+ .rodata.seg_encoding
+                0x0000000000003704       0xa0 gcc/lcd.o
+ .rodata.com_encoding
+                0x00000000000037a4        0x8 gcc/lcd.o
+ .rodata.tablcdclear
+                0x00000000000037ac      0x3c0 gcc/lcd.o
+ .rodata.segdatalow
+                0x0000000000003b6c       0x20 gcc/lcd.o
+                0x0000000000003b6c                segdatalow
+ .rodata.segdatahigh
+                0x0000000000003b8c       0x20 gcc/lcd.o
+                0x0000000000003b8c                segdatahigh
+ .rodata.default_singlectrl
+                0x0000000000003bac       0x54 gcc/adc.o
+ .rodata.__utoa.str1.1
+                0x0000000000003c00       0x25 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-utoa.o)
+ *(.eh_frame*)
+
+.glue_7         0x0000000000003c28        0x0
+ .glue_7        0x0000000000003c28        0x0 linker stubs
+
+.glue_7t        0x0000000000003c28        0x0
+ .glue_7t       0x0000000000003c28        0x0 linker stubs
+
+.vfp11_veneer   0x0000000000003c28        0x0
+ .vfp11_veneer  0x0000000000003c28        0x0 linker stubs
+
+.v4_bx          0x0000000000003c28        0x0
+ .v4_bx         0x0000000000003c28        0x0 linker stubs
+
+.iplt           0x0000000000003c28        0x0
+ .iplt          0x0000000000003c28        0x0 gcc/pwm.o
+
+.rel.dyn        0x0000000000003c28        0x0
+ .rel.iplt      0x0000000000003c28        0x0 gcc/pwm.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0000000000003c25                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x0000000000003c25                __exidx_end = .
+                0x0000000000003c25                __etext = .
+
+.data           0x0000000020000000        0xc load address 0x0000000000003c25
+                0x0000000020000000                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data.SystemHFXOClock
+                0x0000000020000000        0x4 gcc/system_efm32gg.o
+ .data.SystemLFXOClock
+                0x0000000020000004        0x4 gcc/system_efm32gg.o
+ .data.mediaMovelCruzamento
+                0x0000000020000008        0x4 gcc/main.o
+                0x0000000020000008                mediaMovelCruzamento
+                0x000000002000000c                . = ALIGN (0x4)
+ *(.ram)
+                0x000000002000000c                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end = .)
+                0x000000002000000c                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+                [!provide]                        PROVIDE (__init_array_end = .)
+                0x000000002000000c                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+                [!provide]                        PROVIDE (__fini_array_end = .)
+ *(.jcr*)
+                0x000000002000000c                . = ALIGN (0x4)
+                0x000000002000000c                __data_end__ = .
+
+.igot.plt       0x000000002000000c        0x0 load address 0x0000000000003c34
+ .igot.plt      0x000000002000000c        0x0 gcc/pwm.o
+
+.bss            0x0000000020000010      0x120 load address 0x0000000000003c38
+                0x0000000020000010                . = ALIGN (0x4)
+                0x0000000020000010                __bss_start__ = .
+ *(.bss*)
+ .bss.SystemCoreClock
+                0x0000000020000010        0x4 gcc/system_efm32gg.o
+                0x0000000020000010                SystemCoreClock
+ .bss.callbacks
+                0x0000000020000014       0x78 gcc/clock_efm32gg2.o
+ .bss.clock_frequency
+                0x000000002000008c        0x4 gcc/ultrassom.o
+ .bss.trigger   0x0000000020000090        0x4 gcc/ultrassom.o
+ .bss.echo      0x0000000020000094        0x4 gcc/ultrassom.o
+ .bss.ticks     0x0000000020000098        0x4 gcc/ultrassom.o
+ *fill*         0x000000002000009c        0x4 
+ .bss.count     0x00000000200000a0        0x8 gcc/ultrassom.o
+                0x00000000200000a0                count
+ .bss.lcdclock_set
+                0x00000000200000a8        0x1 gcc/lcd.o
+ *fill*         0x00000000200000a9        0x3 
+ .bss.singlectrl
+                0x00000000200000ac       0x54 gcc/adc.o
+ .bss.adc_cal   0x0000000020000100        0x4 gcc/adc.o
+ .bss.adc_bias  0x0000000020000104        0x4 gcc/adc.o
+ .bss.cal_gain_1v25
+                0x0000000020000108        0x4 gcc/adc.o
+ .bss.cal_offset_1v25
+                0x000000002000010c        0x4 gcc/adc.o
+ .bss.cal_gain_2v5
+                0x0000000020000110        0x4 gcc/adc.o
+ .bss.cal_offset_2v5
+                0x0000000020000114        0x4 gcc/adc.o
+ .bss.cal_gain_vdd
+                0x0000000020000118        0x4 gcc/adc.o
+ .bss.cal_offset_vdd
+                0x000000002000011c        0x4 gcc/adc.o
+ .bss.cal_gain_5v
+                0x0000000020000120        0x4 gcc/adc.o
+ .bss.cal_offset_5v
+                0x0000000020000124        0x4 gcc/adc.o
+ .bss.cal_gain_2xvdd
+                0x0000000020000128        0x4 gcc/adc.o
+ .bss.cal_offset_2xvdd
+                0x000000002000012c        0x4 gcc/adc.o
+ *(COMMON)
+                0x0000000020000130                . = ALIGN (0x4)
+                0x0000000020000130                __bss_end__ = .
+
+.heap           0x0000000020000130      0xc00
+                0x0000000020000130                __HeapBase = .
+                0x0000000020000130                __end__ = .
+                0x0000000020000130                end = __end__
+                0x0000000020000130                _end = __end__
+ *(.heap*)
+ .heap          0x0000000020000130      0xc00 gcc/startup_efm32gg.o
+                0x0000000020000d30                __HeapLimit = .
+
+.stack_dummy    0x0000000020000d30      0x400
+ *(.stack*)
+ .stack         0x0000000020000d30      0x400 gcc/startup_efm32gg.o
+                0x0000000020020000                __StackTop = (ORIGIN (RAM) + LENGTH (RAM))
+                0x000000002001fc00                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                [!provide]                        PROVIDE (__stack = __StackTop)
+                0x0000000000000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+                0x0000000000000001                ASSERT ((LENGTH (FLASH) >= (__etext + SIZEOF (.data))), FLASH memory overflowed !)
+OUTPUT(gcc/blink1.axf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x0000000000000000     0x4df8
+ .debug_info    0x0000000000000000      0xaaa gcc/pwm.o
+ .debug_info    0x0000000000000aaa      0x504 gcc/system_efm32gg.o
+ .debug_info    0x0000000000000fae      0x1e1 gcc/startup_efm32gg.o
+ .debug_info    0x000000000000118f      0xac9 gcc/clock_efm32gg2.o
+ .debug_info    0x0000000000001c58      0xea0 gcc/main.o
+ .debug_info    0x0000000000002af8      0x58a gcc/ultrassom.o
+ .debug_info    0x0000000000003082      0xe28 gcc/lcd.o
+ .debug_info    0x0000000000003eaa      0x680 gcc/gpio.o
+ .debug_info    0x000000000000452a      0x8ce gcc/adc.o
+
+.debug_abbrev   0x0000000000000000      0xff3
+ .debug_abbrev  0x0000000000000000      0x1d4 gcc/pwm.o
+ .debug_abbrev  0x00000000000001d4      0x185 gcc/system_efm32gg.o
+ .debug_abbrev  0x0000000000000359       0xfb gcc/startup_efm32gg.o
+ .debug_abbrev  0x0000000000000454      0x220 gcc/clock_efm32gg2.o
+ .debug_abbrev  0x0000000000000674      0x300 gcc/main.o
+ .debug_abbrev  0x0000000000000974      0x1ac gcc/ultrassom.o
+ .debug_abbrev  0x0000000000000b20      0x1f0 gcc/lcd.o
+ .debug_abbrev  0x0000000000000d10      0x12d gcc/gpio.o
+ .debug_abbrev  0x0000000000000e3d      0x1b6 gcc/adc.o
+
+.debug_aranges  0x0000000000000000      0x388
+ .debug_aranges
+                0x0000000000000000       0x60 gcc/pwm.o
+ .debug_aranges
+                0x0000000000000060       0x70 gcc/system_efm32gg.o
+ .debug_aranges
+                0x00000000000000d0       0x38 gcc/startup_efm32gg.o
+ .debug_aranges
+                0x0000000000000108       0x88 gcc/clock_efm32gg2.o
+ .debug_aranges
+                0x0000000000000190       0x88 gcc/main.o
+ .debug_aranges
+                0x0000000000000218       0x48 gcc/ultrassom.o
+ .debug_aranges
+                0x0000000000000260       0xb0 gcc/lcd.o
+ .debug_aranges
+                0x0000000000000310       0x28 gcc/gpio.o
+ .debug_aranges
+                0x0000000000000338       0x50 gcc/adc.o
+
+.debug_ranges   0x0000000000000000      0x2f8
+ .debug_ranges  0x0000000000000000       0x50 gcc/pwm.o
+ .debug_ranges  0x0000000000000050       0x60 gcc/system_efm32gg.o
+ .debug_ranges  0x00000000000000b0       0x28 gcc/startup_efm32gg.o
+ .debug_ranges  0x00000000000000d8       0x78 gcc/clock_efm32gg2.o
+ .debug_ranges  0x0000000000000150       0x78 gcc/main.o
+ .debug_ranges  0x00000000000001c8       0x38 gcc/ultrassom.o
+ .debug_ranges  0x0000000000000200       0xa0 gcc/lcd.o
+ .debug_ranges  0x00000000000002a0       0x18 gcc/gpio.o
+ .debug_ranges  0x00000000000002b8       0x40 gcc/adc.o
+
+.debug_line     0x0000000000000000     0x28f5
+ .debug_line    0x0000000000000000      0x41f gcc/pwm.o
+ .debug_line    0x000000000000041f      0x310 gcc/system_efm32gg.o
+ .debug_line    0x000000000000072f      0x172 gcc/startup_efm32gg.o
+ .debug_line    0x00000000000008a1      0x887 gcc/clock_efm32gg2.o
+ .debug_line    0x0000000000001128      0x5d6 gcc/main.o
+ .debug_line    0x00000000000016fe      0x2ba gcc/ultrassom.o
+ .debug_line    0x00000000000019b8      0x954 gcc/lcd.o
+ .debug_line    0x000000000000230c      0x20a gcc/gpio.o
+ .debug_line    0x0000000000002516      0x3df gcc/adc.o
+
+.debug_str      0x0000000000000000     0x1758
+ .debug_str     0x0000000000000000      0x5b1 gcc/pwm.o
+                                        0x613 (size before relaxing)
+ .debug_str     0x00000000000005b1      0x193 gcc/system_efm32gg.o
+                                        0x411 (size before relaxing)
+ .debug_str     0x0000000000000744       0xce gcc/startup_efm32gg.o
+                                        0x208 (size before relaxing)
+ .debug_str     0x0000000000000812      0x3b6 gcc/clock_efm32gg2.o
+                                        0x6e4 (size before relaxing)
+ .debug_str     0x0000000000000bc8      0x457 gcc/main.o
+                                        0x997 (size before relaxing)
+ .debug_str     0x000000000000101f       0xb9 gcc/ultrassom.o
+                                        0x488 (size before relaxing)
+ .debug_str     0x00000000000010d8      0x493 gcc/lcd.o
+                                        0x737 (size before relaxing)
+ .debug_str     0x000000000000156b       0x3f gcc/gpio.o
+                                        0x4ec (size before relaxing)
+ .debug_str     0x00000000000015aa      0x1ae gcc/adc.o
+                                        0x558 (size before relaxing)
+
+.comment        0x0000000000000000       0x49
+ .comment       0x0000000000000000       0x49 gcc/pwm.o
+                                         0x4a (size before relaxing)
+ .comment       0x0000000000000049       0x4a gcc/system_efm32gg.o
+ .comment       0x0000000000000049       0x4a gcc/startup_efm32gg.o
+ .comment       0x0000000000000049       0x4a gcc/clock_efm32gg2.o
+ .comment       0x0000000000000049       0x4a gcc/main.o
+ .comment       0x0000000000000049       0x4a gcc/ultrassom.o
+ .comment       0x0000000000000049       0x4a gcc/lcd.o
+ .comment       0x0000000000000049       0x4a gcc/gpio.o
+ .comment       0x0000000000000049       0x4a gcc/adc.o
+
+.ARM.attributes
+                0x0000000000000000       0x2d
+ .ARM.attributes
+                0x0000000000000000       0x2d gcc/pwm.o
+ .ARM.attributes
+                0x000000000000002d       0x2d gcc/system_efm32gg.o
+ .ARM.attributes
+                0x000000000000005a       0x2d gcc/startup_efm32gg.o
+ .ARM.attributes
+                0x0000000000000087       0x2d gcc/clock_efm32gg2.o
+ .ARM.attributes
+                0x00000000000000b4       0x2d gcc/main.o
+ .ARM.attributes
+                0x00000000000000e1       0x2d gcc/ultrassom.o
+ .ARM.attributes
+                0x000000000000010e       0x2d gcc/lcd.o
+ .ARM.attributes
+                0x000000000000013b       0x2d gcc/gpio.o
+ .ARM.attributes
+                0x0000000000000168       0x2d gcc/adc.o
+ .ARM.attributes
+                0x0000000000000195       0x1d /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000000000001b2       0x1d /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000000000001cf       0x1d /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x00000000000001ec       0x1d /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x0000000000000209       0x1d /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x0000000000000226       0x1d /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_fixsfsi.o)
+ .ARM.attributes
+                0x0000000000000243       0x1d /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_fixunssfsi.o)
+ .ARM.attributes
+                0x0000000000000260       0x2d /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-itoa.o)
+ .ARM.attributes
+                0x000000000000028d       0x2d /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000000002ba       0x2d /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-utoa.o)
+
+.debug_frame    0x0000000000000000      0xf58
+ .debug_frame   0x0000000000000000      0x174 gcc/pwm.o
+ .debug_frame   0x0000000000000174      0x180 gcc/system_efm32gg.o
+ .debug_frame   0x00000000000002f4       0x78 gcc/startup_efm32gg.o
+ .debug_frame   0x000000000000036c      0x20c gcc/clock_efm32gg2.o
+ .debug_frame   0x0000000000000578      0x208 gcc/main.o
+ .debug_frame   0x0000000000000780      0x100 gcc/ultrassom.o
+ .debug_frame   0x0000000000000880      0x2d8 gcc/lcd.o
+ .debug_frame   0x0000000000000b58       0x5c gcc/gpio.o
+ .debug_frame   0x0000000000000bb4      0x118 gcc/adc.o
+ .debug_frame   0x0000000000000ccc       0xac /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x0000000000000d78       0x50 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x0000000000000dc8       0x24 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_truncdfsf2.o)
+ .debug_frame   0x0000000000000dec       0x4c /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubsf3.o)
+ .debug_frame   0x0000000000000e38       0x38 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivsf3.o)
+ .debug_frame   0x0000000000000e70       0x24 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_fixsfsi.o)
+ .debug_frame   0x0000000000000e94       0x24 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_fixunssfsi.o)
+ .debug_frame   0x0000000000000eb8       0x38 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-itoa.o)
+ .debug_frame   0x0000000000000ef0       0x20 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000f10       0x48 /home/luizalaquini/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-utoa.o)
